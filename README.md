@@ -13,6 +13,7 @@ I am currently working as a Development Engineer for [ArchitectNow](https://gith
 
 ### Check out my social medias:
 
+- 💬: [Personal blog](https://nartc.me)
 - 📹 [Youtube](https://www.youtube.com/channel/UCMr30viIwx5y0aopf4yVZug?view_as=subscriber)
 - 🔗: [LinkedIn](https://www.linkedin.com/in/chauntran/)
 - 🐦: [Twitter](https://twitter.com/Nartc1410)
