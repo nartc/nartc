@@ -18,5 +18,7 @@ I am currently working as a Development Engineer for [ArchitectNow](https://gith
 - 🔗 [LinkedIn](https://www.linkedin.com/in/chauntran/)
 - 🐦 [Twitter](https://twitter.com/Nartc1410)
 
+![nartc's github stats](https://github-readme-stats.vercel.app/api?username=nartc&show_icons=true)
+
 ### and just a funny gif...😛
 ![](https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif)
