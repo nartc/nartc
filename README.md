@@ -23,4 +23,4 @@ I am currently working as a Sr Frontend Engineer for [Swimlane](https://github.c
 ### and just a funny gif...😛
 ![](https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif)
 
-<a href="https://www.buymeacoffee.com/nartc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee"></a>
+<a href="https://www.buymeacoffee.com/nartc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
